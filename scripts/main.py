@@ -72,7 +72,7 @@ for i in range(10):
     break
   all_repositories.extend(repositories)
 
-with open('resultados.txt', 'w') as file:
+with open('resultadosq2.txt', 'w') as file:
   file.write(
       f'Nome, Idade, PRs, ultima atualização, razão de issues, linguagem principal\n'
   )
