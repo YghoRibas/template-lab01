@@ -73,3 +73,7 @@ Para essa pesquisa foram utilizados os 1000 repositórios que possuem mais estre
 ### Hipótese informal para os RQs:
 Minha hipótese para esse laboratório, é de que os repositórios são antigos (mais que 5 anos desde sua criação), são atualizados frequentemente e que possuem uma relação de resolução de issues significativas (maior que 0.75). O Sucesso desses repositórios não dependem da linguagem utilizada e sim da ideia proposta e sua solução para resolver determinado problema.
 
+# Resultado
+
+Como o esperado, grande parte dos repositórios
+
