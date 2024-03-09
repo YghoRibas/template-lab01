@@ -75,5 +75,6 @@ Minha hipótese para esse laboratório, é de que os repositórios são antigos 
 
 # Resultado
 
-Como o esperado, grande parte dos repositórios
+Como o esperado, grande parte dos repositórios já possuem certa maturidade
+
 
