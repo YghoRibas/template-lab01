@@ -100,4 +100,4 @@ with open('resultados.txt', 'w') as file:
     result_line = f' {name}, {age_years:.0f},  {PRs}, {updated_date_formatted}, {issue_relationship: .2f}, {primary_language}\n'
     file.write(result_line)
 
-print("Resultados salvos em 'resultados.txt'")
+print("Resultados salvos")
