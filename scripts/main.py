@@ -7,7 +7,7 @@ url = 'https://api.github.com/graphql'
 
 query = """
 {
-  search(query: "stars:>1", type: REPOSITORY, first: 100) {
+  search(query: "stars:>1", type: REPOSITORY, first: 1000) {
     edges {
       node {
         ... on Repository {
