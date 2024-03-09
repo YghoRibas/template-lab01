@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('./dataset/resultadosq2.txt', header=None)
+df = pd.read_csv('./dataset/resultadosq2.txt', skiprows=1)
 
 segundo_indice_coluna = 1
 
