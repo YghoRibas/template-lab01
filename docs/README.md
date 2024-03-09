@@ -65,7 +65,7 @@ Query utilizada com paginação
       }
     }
 
-Resultados recolhidos salvos em  [resultadosq2.txt](scripts/dataset/resultadosq2.txt) 
+Resultados recolhidos salvos em  [resultadosq2.txt](https://github.com/YghoRibas/template-lab01/blob/bb57bc9f22950686bd14b09cef82f02e0dc0e566/scripts/dataset/resultadosq2.txt) 
 
 # Hipótese
 Para essa pesquisa foram utilizados os 1000 repositórios que possuem mais estrelas.
