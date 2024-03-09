@@ -30,7 +30,7 @@ Query utilizada com paginação
     }
 
 
-Resultados recolhidos salvos em  resultadosq1.txt 
+Resultados recolhidos salvos em  [resultadosq1.txt](scripts/dataset/resultadosq1.txt) 
 ## Sprint 2 
 
 Query utilizada com paginação
@@ -65,7 +65,7 @@ Query utilizada com paginação
       }
     }
 
-Resultados recolhidos salvos em  resultadosq2.txt  
+Resultados recolhidos salvos em  [resultadosq2.txt](scripts/dataset/resultadosq2.txt) 
 
 # Hipótese
 Para essa pesquisa foram utilizados os 1000 repositórios que possuem mais estrelas.
