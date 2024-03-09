@@ -30,7 +30,7 @@ Query utilizada com paginação
     }
 
 
-Resultados recolhidos salvos em  [resultadosq1.txt]([scripts/dataset/resultadosq1.txt](https://github.com/YghoRibas/template-lab01/blob/main/scripts/dataset/resultadosq1.txt)) 
+Resultados recolhidos salvos em  [resultadosq1.txt](https://github.com/YghoRibas/template-lab01/blob/bb57bc9f22950686bd14b09cef82f02e0dc0e566/scripts/dataset/resultadosq1.txt) 
 ## Sprint 2 
 
 Query utilizada com paginação
