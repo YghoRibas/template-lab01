@@ -1,7 +1,14 @@
 # Relatório
 
+# Método
+Para o desenvolvimento desse trabalho as tecnologias definidas foram;
+* python (Linguagem do script)
+* graphql (Querys)
+
+Utilizando a [API](https://docs.github.com/pt/graphql) do github
+
 ## Sprint 1 
-Query utilizada com paginação
+Query utilizada sem paginação
 
     query {
       search(query: "stars:>1", type: REPOSITORY, first: 100) {
