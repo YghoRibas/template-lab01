@@ -28,6 +28,9 @@ Query utilizada sem paginação
               issuesClosed: issues(states: CLOSED) {
                 totalCount
               }
+              releases(orderBy:{field:CREATED_AT, direction:DESC}) {
+                totalCount
+              } 
               updatedAt
               createdAt
             }
